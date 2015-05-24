@@ -1,0 +1,2 @@
+# couchpotato-userscript
+Couchpotato Userscript
